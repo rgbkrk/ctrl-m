@@ -18,3 +18,7 @@ Steps to reproduce edit:
 - The linebreak change is included as part of your commit
 
 It looks like GitHub is handling ^M foo for Windows users to deal with newlines cross platform.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rgbkrk/ctrl-m/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
