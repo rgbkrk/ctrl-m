@@ -13,7 +13,7 @@ Steps to reproduce view:
 Steps to reproduce edit:
 - View https://github.com/rgbkrk/ctrl-m/blob/master/trial.vim
 - Click Edit
-- Notice that a weird linebreak occurred and that you can't commit without changing something (as usual)
+- Notice that a weird linebreak occurred and that you can't commit without changing something (per the norm)
 - Change something, submit a commit
 - The linebreak change is included as part of your commit
 
